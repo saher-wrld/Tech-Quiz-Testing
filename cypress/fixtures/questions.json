@@ -1,0 +1,12 @@
+[
+    {
+      "question": "Which is the correct answer?",
+      "answers": [
+        { "text": "yes girl!", "isCorrect": true },
+        { "text": "No girl", "isCorrect": false },
+        { "text": "Nah girl", "isCorrect": false },
+        { "text": "nope girl", "isCorrect": false }
+      ]
+    }
+  ]
+  
